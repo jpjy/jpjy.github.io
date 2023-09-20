@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student.
+I am a first-year Ph.D. student at [University of South Florida](https://www.usf.edu/). 
 
 
 Getting started
