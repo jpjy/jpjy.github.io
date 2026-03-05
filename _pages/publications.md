@@ -11,49 +11,49 @@ You can find the full list of publications on my
 ---
 ## Cloud and Infrastructure Security
 
-**Changjia Zhu**, P. Gera, Z. Lu, T. Neal, Y. Liu.  
-**WILD Attack: Stealthy Undermining of Wi-Fi-Based Geolocation Through Remote Crowdsourced Data Injection.**  
+**WILD Attack: Stealthy Undermining of Wi-Fi-Based Geolocation Through Remote Crowdsourced Data Injection.** 
+<u>Changjia Zhu</u>, P. Gera, Z. Lu, T. Neal, Y. Liu.  
 *USENIX Security 2026*.
 
-**Changjia Zhu**, P. Gera, X. Han, M. Wei, Z. Lu, T. Neal, Y. Liu.  
-**Understanding and Mitigating Infrastructure-Level Disruption in Wi-Fi Positioning Systems.**  
+Understanding and Mitigating Infrastructure-Level Disruption in Wi-Fi Positioning Systems. 
+<u>Changjia Zhu</u>, P. Gera, X. Han, M. Wei, Z. Lu, T. Neal, Y. Liu.  
 Under Review, *IEEE Transactions on Dependable and Secure Computing*.
 
-**Changjia Zhu**, J. Xiong, Z. Lu, Y. Liu.  
 **Shadow Hunting in the Cloud: Unearthing and Undermining the Target Application in a Vast Ocean of Servers.**  
+<u>Changjia Zhu</u>, J. Xiong, Z. Lu, Y. Liu.  
 Under Review.
 
 ---
 
 ## LLM Security and Workflow Evaluation
 
-**Changjia Zhu**, J. Xiong, S. Lin, C. Zhang, Y. Zhang, Y. Liu, L. Li.  
 **Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models.**  
+<u>Changjia Zhu</u>, J. Xiong, S. Lin, C. Zhang, Y. Zhang, Y. Liu, L. Li.  
 *EMNLP 2025 Findings*.
 
-**Changjia Zhu**, R. Ma, Z. Lu, Y. Liu, L. Li.  
 **When Your Reviewer is an LLM: Biases, Divergence, and Prompt Injection Risks.**  
+<u>Changjia Zhu</u>, R. Ma, Z. Lu, Y. Liu, L. Li.  
 Under Review, *Computers in Human Behavior*, 2025.
 
-J. Wang, **Changjia Zhu**, Y. Zhou, L. Li, X. He, J. Xiong.  
 **COGNITION: From Evaluation to Defense against Multimodal LLM CAPTCHA Solvers.**  
+J. Wang, <u>Changjia Zhu</u>, Y. Zhou, L. Li, X. He, J. Xiong.  
 Under Review, 2026.
 
-**Changjia Zhu**, C. Zhang, J. Xiong, X. Xu, L. Li, Y. Liu, Z. Lu.  
 **Guardians and Offenders: A Survey on Harmful Content Generation and Safety Mitigation.**  
+<u>Changjia Zhu</u>, C. Zhang, J. Xiong, X. Xu, L. Li, Y. Liu, Z. Lu.  
 Under Review, *ACM Transactions on Intelligent Systems and Technology*.
 
-J. Xiong, Z. Jiang, X. Xu, C. Zhang, **Changjia Zhu**, N. Wang, M. Wei, Z. Lu, Y. Liu, L. Li.  
-**Large Language Models and Social Media Information Integrity: Opportunities, Challenges, and Research Directions.**  
+**Large Language Models and Social Media Information Integrity: Opportunities, Challenges, and Research Directions.**
+J. Xiong, Z. Jiang, X. Xu, C. Zhang, <u>Changjia Zhu</u>, N. Wang, M. Wei, Z. Lu, Y. Liu, L. Li.  
 Under Revision, *ACM Computing Surveys*, 2025.
 
 ---
 
 ## Transformer Architecture and Guardrail Analysis
 
-Y. Zhou, **Changjia Zhu**, J. Wang, Y. Zhai, K. Sun, X. He, J. Xiong.  
 **Prompt Overflow Attack: Bypassing LLM Safety Checkers via Overlength Prompting.**  
+Y. Zhou, <u>Changjia Zhu</u>, J. Wang, Y. Zhai, K. Sun, X. He, J. Xiong.  
 Under Review, 2026.
 
----
+
 
