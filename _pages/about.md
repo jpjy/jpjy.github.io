@@ -4,6 +4,7 @@ permalink: /
 layout: single
 author_profile: true
 ---
+<div style="text-align: justify;">
 
 I am a Ph.D. student in Computer Science at the 
 [Bellini College of Artificial Intelligence, Cybersecurity, and Computing (CAICC)](https://www.usf.edu/ai-cybersecurity-computing/) 
@@ -16,3 +17,5 @@ My work studies the security risks and misuse of modern AI systems and large-sca
 - Security and misuse of large language models
 - Wi-Fi positioning system security
 - Co-location risks in Function-as-a-Service (FaaS) platforms
+
+</div>
