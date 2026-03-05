@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Changjia Zhu"
 permalink: /
 layout: single
 author_profile: true
