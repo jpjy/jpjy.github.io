@@ -11,11 +11,13 @@ You can find the full list of publications on my
 ---
 ## Cloud and Infrastructure Security
 
-**WILD Attack: Stealthy Undermining of Wi-Fi-Based Geolocation Through Remote Crowdsourced Data Injection.** 
+**WILD Attack: Stealthy Undermining of Wi-Fi-Based Geolocation Through Remote Crowdsourced Data Injection.**
+
 <u>Changjia Zhu</u>, Xiao Han, Parush Gera, Zhuo Lu, Tempestt Neal, Yao Liu.  
 *USENIX Security 2026*.
 
-**Understanding and Mitigating Infrastructure-Level Disruption in Wi-Fi Positioning Systems.** 
+**Understanding and Mitigating Infrastructure-Level Disruption in Wi-Fi Positioning Systems.**
+
 <u>Changjia Zhu</u>, Xiao Han, Parush Gera, Mingkui Wei, Zhuo Lu, Tempestt Neal, Yao Liu.  
 Under Review, *IEEE Transactions on Dependable and Secure Computing*.
 
