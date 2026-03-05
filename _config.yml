@@ -18,7 +18,6 @@
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
 
-
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
