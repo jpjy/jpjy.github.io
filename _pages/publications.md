@@ -18,11 +18,15 @@ You can find the full list of publications on my
 
 **Understanding and Mitigating Infrastructure-Level Disruption in Wi-Fi Positioning Systems**  
 <u>Changjia Zhu</u>, Xiao Han, Parush Gera, Mingkui Wei, Zhuo Lu, Tempestt Neal, Yao Liu  
-Under Review, *IEEE Transactions on Dependable and Secure Computing*
+Under Review, *IEEE Transactions on Dependable and Secure Computing*, 2026
 
 **Shadow Hunting in the Cloud: Unearthing and Undermining the Target Application in a Vast Ocean of Servers**  
 <u>Changjia Zhu</u>, Junjie Xiong, Zhuo Lu, Yao Liu  
-Under Review
+Under Review, 2026
+
+**Patent: Mitigating Infrastructure-Level Disruption in Wi-Fi Positioning Systems**
+<u>Changjia Zhu</u>, Xiao Han, Parush Gera, Mingkui Wei, Zhuo Lu, Tempestt Neal, Yao Liu 
+U.S. Patent Application (Submitted), 2026
 
 ---
 
