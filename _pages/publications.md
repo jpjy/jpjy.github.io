@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 You can find the full list of publications on my 
-[Google Scholar](https://scholar.google.com/).
+[Google Scholar](https://scholar.google.com/citations?user=1iJ_8YAAAAAJ&hl=en).
 
 ---
 ## Cloud and Infrastructure Security
