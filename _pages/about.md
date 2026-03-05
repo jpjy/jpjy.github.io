@@ -4,7 +4,6 @@ permalink: /
 layout: single
 author_profile: true
 ---
-<div style="text-align: justify;">
 
 I am a Ph.D. student in Computer Science at the 
 [Bellini College of Artificial Intelligence, Cybersecurity, and Computing (CAICC)](https://www.usf.edu/ai-cybersecurity-computing/) 
@@ -18,4 +17,22 @@ My work studies the security risks and misuse of modern AI systems and large-sca
 - Wi-Fi positioning system security
 - Co-location risks in Function-as-a-Service (FaaS) platforms
 
-</div>
+
+
+## Education
+
+- Ph.D. in Computer Science & Engineering, [University of South Florida](https://www.usf.edu), Tampa, FL  
+  Jan 2023 – Present  
+
+- M.S. in Inorganic Chemistry, [University of North Texas](https://www.unt.edu), Denton, TX
+  Aug 2021 – Dec 2022  
+
+- B.S. in Material Chemistry,  [University of Science and Technology of China](https://www.ustc.edu.cn), Hefei, China  
+  Aug 2016 – Jun 2020
+
+## News
+
+- **[Dec 2025]** Our paper *WILD Attack: Stealthy Undermining of Wi-Fi-Based Geolocation Through Remote Crowdsourced Data Injection* was accepted to USENIX Security 2026.
+
+- **[Aug 2025]** Our paper *Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models* was accepted to EMNLP 2025 Findings.
+
