@@ -21,13 +21,13 @@ My work studies the security risks and misuse of modern AI systems and large-sca
 
 ## Education
 
-- Ph.D. in Computer Science & Engineering, [University of South Florida](https://www.usf.edu), Tampa, FL  
+- Ph.D. in Computer Science & Engineering, University of South Florida, Tampa, FL  
   Jan 2023 – Present  
 
-- M.S. in Inorganic Chemistry, [University of North Texas](https://www.unt.edu), Denton, TX
+- M.S. in Inorganic Chemistry, University of North Texas, Denton, TX
   Aug 2021 – Dec 2022  
 
-- B.S. in Material Chemistry,  [University of Science and Technology of China](https://www.ustc.edu.cn), Hefei, China  
+- B.S. in Material Chemistry, University of Science and Technology of China, Hefei, China  
   Aug 2016 – Jun 2020
 
 ## News
