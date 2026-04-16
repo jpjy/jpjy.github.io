@@ -20,10 +20,6 @@ You can find the full list of publications on my
 <u>Changjia Zhu</u>, Xiao Han, Parush Gera, Mingkui Wei, Zhuo Lu, Tempestt Neal, Yao Liu  
 Under Review, *IEEE Transactions on Dependable and Secure Computing*, 2026
 
-**Shadow Hunting in the Cloud: Unearthing and Undermining the Target Application in a Vast Ocean of Servers**  
-<u>Changjia Zhu</u>, Junjie Xiong, Zhuo Lu, Yao Liu  
-Under Review, 2026
-
 **Patent: Mitigating Infrastructure-Level Disruption in Wi-Fi Positioning Systems**
 <u>Changjia Zhu</u>, Xiao Han, Parush Gera, Mingkui Wei, Zhuo Lu, Tempestt Neal, Yao Liu 
 U.S. Patent Application (Submitted), 2026
@@ -38,7 +34,7 @@ U.S. Patent Application (Submitted), 2026
 
 **When Your Reviewer is an LLM: Biases, Divergence, and Prompt Injection Risks**  
 <u>Changjia Zhu</u>, Junjie Xiong, Renkai Ma, Zhicong Lu, Zhuo Lu, Yao Liu, Lingyao Li  
-Under Review, *Computers in Human Behavior*, 2025
+Under Review, 2025
 
 **COGNITION: From Evaluation to Defense against Multimodal LLM CAPTCHA Solvers**  
 Junyu Wang, <u>Changjia Zhu</u>, Yuanbo Zhou, Lingyao Li, Xu He, Mingkui Wei, Junjie Xiong  
