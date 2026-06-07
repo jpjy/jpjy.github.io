@@ -32,6 +32,8 @@ My work studies the security risks and misuse of modern AI systems and large-sca
 
 ## News
 
+- **[Jan 2026]** Our paper *COGNITION: From Evaluation to Defense against Multimodal LLM CAPTCHA Solvers* was accepted to USENIX Security 2026.
+
 - **[Dec 2025]** Our paper *WILD Attack: Stealthy Undermining of Wi-Fi-Based Geolocation Through Remote Crowdsourced Data Injection* was accepted to USENIX Security 2026.
 
 - **[Aug 2025]** Our paper *Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models* was accepted to EMNLP 2025 Findings.
