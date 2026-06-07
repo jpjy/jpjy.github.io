@@ -27,6 +27,9 @@ U.S. Patent Application (Submitted), 2026
 ---
 
 ## LLM Security and Workflow Evaluation
+**COGNITION: From Evaluation to Defense against Multimodal LLM CAPTCHA Solvers**  
+Junyu Wang, <u>Changjia Zhu</u>, Yuanbo Zhou, Lingyao Li, Xu He, Mingkui Wei, Junjie Xiong  
+*USENIX Security 2026*
 
 **Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models**  
 <u>Changjia Zhu</u>, Junjie Xiong, Chong Zhang, Yongfeng Zhang, Yao Liu, Lingyao Li  
@@ -35,10 +38,6 @@ U.S. Patent Application (Submitted), 2026
 **When Your Reviewer is an LLM: Biases, Divergence, and Prompt Injection Risks**  
 <u>Changjia Zhu</u>, Junjie Xiong, Renkai Ma, Zhicong Lu, Zhuo Lu, Yao Liu, Lingyao Li  
 Under Review, 2025
-
-**COGNITION: From Evaluation to Defense against Multimodal LLM CAPTCHA Solvers**  
-Junyu Wang, <u>Changjia Zhu</u>, Yuanbo Zhou, Lingyao Li, Xu He, Mingkui Wei, Junjie Xiong  
-Under Review, 2026
 
 **Guardians and Offenders: A Survey on Harmful Content Generation and Safety Mitigation**  
 <u>Changjia Zhu</u>, Chi Zhang, Junjie Xiong, Xiaoran Xu, Lingyao Li, Yao Liu, Zhuo Lu  
