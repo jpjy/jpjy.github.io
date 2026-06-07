@@ -50,7 +50,11 @@ Under Revision, *ACM Computing Surveys*, 2025
 ---
 
 ## Transformer Architecture and Guardrail Analysis
+**Disciplined Diffusion: Text-to-Image Diffusion Model against NSFW Generation**
+Chi Zhang, <u>Changjia Zhu</u>, Xiaowen Li, Yao Liu, Zhuo Lu
+Under Review, *IEEE Transactions on Dependable and Secure Computing*, 2026
 
 **Prompt Overflow Attack: Bypassing LLM Safety Checkers via Overlength Prompting**  
 Yuanbo Zhou, <u>Changjia Zhu</u>, Junyu Wang, Yan Zhai, Kun Sun, Xu He, Junjie Xiong  
 Under Review, 2026
+
