@@ -21,6 +21,7 @@ You can find the full list of publications on my
 Under Review, *IEEE Transactions on Dependable and Secure Computing*, 2026
 
 **Patent: Mitigating Infrastructure-Level Disruption in Wi-Fi Positioning Systems**
+
 <u>Changjia Zhu</u>, Xiao Han, Parush Gera, Mingkui Wei, Zhuo Lu, Tempestt Neal, Yao Liu 
 U.S. Patent Application (Submitted), 2026
 
