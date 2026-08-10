@@ -46,7 +46,7 @@ Under Review, *ACM Transactions on Intelligent Systems and Technology*
 
 **Large Language Models and Social Media Information Integrity: Opportunities, Challenges, and Research Directions**  
 Junjie Xiong, Zhengyuan Jiang, Xiaoran Xu, Chi Zhang, <u>Changjia Zhu</u>, Ning Wang, Mingkui Wei, Zhuo Lu, Yao Liu, Lingyao Li  
-Under Revision, *ACM Computing Surveys*, 2025
+*ACM Computing Surveys*, 2026
 
 ---
 
@@ -58,4 +58,3 @@ Under Review, *IEEE Transactions on Dependable and Secure Computing*, 2026
 **Prompt Overflow Attack: Bypassing LLM Safety Checkers via Overlength Prompting**  
 Yuanbo Zhou, <u>Changjia Zhu</u>, Junyu Wang, Yan Zhai, Kun Sun, Xu He, Junjie Xiong  
 Under Review, 2026
-
